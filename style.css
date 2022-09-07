@@ -432,7 +432,7 @@ footer form .submit-btn {
   transform: translateY(-50%);
   background: var(--dark-blue-color);
   border-radius: 8px;
-  padding: 8px 32px;
+  padding: 4px 32px;
   border: none;
   font-family: 'Poppins', sans-serif;
   font-weight: normal;
